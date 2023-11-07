@@ -1,0 +1,79 @@
+
+ {'159061': [{'keywords': ['Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 110312'}]}
+
+ {'157878': [{'keywords': ['Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 105514'}]}
+
+ {'156194': [{'keywords': ['Bacteria', 'aerobe', 'mesophilic']}, {'culture collection no.': 'CCUG 60680'}]}
+
+ {'155540': [{'keywords': ['Bacteria', 'microaerophile', 'mesophilic']}, {'culture collection no.': 'CCUG 58045 A'}]}
+
+ {'155539': [{'keywords': ['Bacteria', 'microaerophile', 'mesophilic']}, {'culture collection no.': 'CCUG 58043 B'}]}
+
+ {'155538': [{'keywords': ['Bacteria', 'mesophilic']}, {'culture collection no.': 'CCUG 58042 B'}]}
+
+ {'154970': [{'keywords': ['Bacteria', 'aerobe', 'mesophilic']}, {'culture collection no.': 'CCUG 55899'}]}
+
+ {'154892': [{'keywords': ['Bacteria', 'microaerophile', 'mesophilic']}, {'culture collection no.': 'CCUG 55563'}]}
+
+ {'154564': [{'keywords': ['Bacteria', 'aerobe', 'mesophilic']}, {'culture collection no.': 'CCUG 54439'}]}
+
+ {'153892': [{'keywords': ['Bacteria', 'aerobe', 'mesophilic']}, {'culture collection no.': 'CCUG 51541'}]}
+
+ {'153515': [{'keywords': ['Bacteria', 'aerobe', 'mesophilic']}, {'culture collection no.': 'CCUG 50005'}]}
+
+ {'152183': [{'keywords': ['Bacteria', 'mesophilic']}, {'culture collection no.': 'CCUG 45994'}]}
+
+ {'151825': [{'keywords': ['Bacteria', 'aerobe', 'mesophilic']}, {'culture collection no.': 'CCUG 44990'}]}
+
+ {'151514': [{'keywords': ['Bacteria', 'aerobe', 'mesophilic']}, {'culture collection no.': 'CCUG 44185'}]}
+
+ {'151499': [{'keywords': ['Bacteria', 'aerobe', 'mesophilic']}, {'culture collection no.': 'CCUG 44155'}]}
+
+ {'150848': [{'keywords': 'Bacteria'}, {'culture collection no.': 'CCUG 42558'}]}
+
+ {'150578': [{'keywords': 'Bacteria'}, {'culture collection no.': 'CCUG 41650'}]}
+
+ {'150454': [{'keywords': 'Bacteria'}, {'culture collection no.': 'CCUG 39976'}]}
+
+ {'149760': [{'keywords': 'Bacteria'}, {'culture collection no.': 'CCUG 38347'}]}
+
+ {'149596': [{'keywords': 'Bacteria'}, {'culture collection no.': 'CCUG 38030'}]}
+
+ {'147676': [{'keywords': 'Bacteria'}, {'culture collection no.': 'CCUG 33989, NCTC 4276'}]}
+
+ {'145554': [{'keywords': ['Bacteria', 'aerobe', 'mesophilic']}, {'culture collection no.': 'CCUG 28816'}]}
+
+ {'145403': [{'keywords': 'Bacteria'}, {'culture collection no.': 'CCUG 28371'}]}
+
+ {'144083': [{'keywords': 'Bacteria'}, {'culture collection no.': 'CCUG 22876'}]}
+
+ {'141756': [{'keywords': ['Bacteria', 'microaerophile', 'mesophilic']}, {'culture collection no.': 'CCUG 6388'}]}
+
+ {'139776': [{'keywords': ['Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 103903'}]}
+
+ {'139511': [{'keywords': ['Bacteria', 'mesophilic']}, {'culture collection no.': 'CIP 107204'}]}
+
+ {'138991': [{'keywords': ['Bacteria', 'mesophilic']}, {'culture collection no.': 'CIP 104114, ATCC 27626'}]}
+
+ {'24588': [{'keywords': ['Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 24111'}]}
+
+ {'14552': [{'keywords': ['Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 30910'}]}
+
+ {'14551': [{'keywords': ['Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 30656'}]}
+
+ {'14550': [{'keywords': ['16S sequence', 'Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 30560'}]}
+
+ {'14549': [{'keywords': ['16S sequence', 'Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 30559'}]}
+
+ {'14548': [{'keywords': ['16S sequence', 'Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 30553'}]}
+
+ {'14547': [{'keywords': ['16S sequence', 'Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 30609'}]}
+
+ {'14546': [{'keywords': ['16S sequence', 'Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 20265, ATCC 29968'}]}
+
+ {'14545': [{'keywords': ['genome sequence', '16S sequence', 'Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 20264, ATCC 29969, RM 422'}]}
+
+ {'14544': [{'keywords': ['genome sequence', '16S sequence', 'Bacteria', 'aerobe', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 20263, ATCC 29970, CCM 2737, CCUG 7323, NCTC 11042, JCM 2416, BCRC 12923, CECT 4900, CIP 81.56, KCTC 3341, LMG 13349, NBRC 109768, NCIMB 14489, NRRL B-14755, VTT E-97770'}]}
+
+ {'14543': [{'keywords': ['Bacteria', 'mesophilic', 'human pathogen']}, {'culture collection no.': 'DSM 20228, ATCC 15796, CCM 1798'}]}
+name of mo
